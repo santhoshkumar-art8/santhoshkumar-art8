@@ -2,7 +2,8 @@
 <br>
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500" height="320" />
-<br>
+
+
 * 👻 MERN Stack Developer
 * 💙 I love developing Blogs and Sites
 * 🧑‍🤝‍🧑 Looking for a team or an organization where I can learn and develop my skills
